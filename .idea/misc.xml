@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/hua-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/hua-api/pom.xml" />
+        <option value="$PROJECT_DIR$/hua-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/hua-service-util/pom.xml" />
+        <option value="$PROJECT_DIR$/hua-web-util/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

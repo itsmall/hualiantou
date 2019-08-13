@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hua-api" />
+        <module name="hua-common-util" />
+        <module name="hua-service-util" />
+        <module name="hua-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hua-api" target="1.8" />
+      <module name="hua-common-util" target="1.8" />
+      <module name="hua-parent" target="1.8" />
+      <module name="hua-service-util" target="1.8" />
+      <module name="hua-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
